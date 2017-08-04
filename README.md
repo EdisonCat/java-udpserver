@@ -1,7 +1,7 @@
 # UDP Server Implementation in Java
 This is a simple implementation of UDP server in Java, implemented with fundamental Java classes, methods and interfaces. And it can be reused to build a more powerful and more functional UDP server(Usually used in back-end).
 
-#### ttention:
+#### Attention:
 This UDP server is linked to a database(a hospital database here, but you can change it to whatever you want), so MySQL is required before you can run the source code correctly.
 
 [Download MySQL](https://www.mysql.com/downloads/)
