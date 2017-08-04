@@ -28,7 +28,7 @@ Under IntelliJ, open **Project Structure** panel and select **Module** at the si
 - ### Try to run
 You can try run the project in your IDE now if you have known how to link to the database.But you may probably get error messages here.
 
-##Usage
+## Usage
 - ### Create a MySQL database in Terminal(**this is just an example**)
 **If you know how to create MySQL databases and tables and add columns, just skip this step.**
 
